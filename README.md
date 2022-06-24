@@ -1,6 +1,6 @@
 # Online Quiz
 ---
-## screenshots
+## Screenshots
 >**_HOMEPAGE_**
 ![image](https://user-images.githubusercontent.com/78221502/175472050-6f065a5c-295d-4f17-a22a-d1ec05334f10.png)
 
@@ -8,6 +8,8 @@
 ![image](https://user-images.githubusercontent.com/78221502/175472220-7acc9d44-96e1-4fd1-95ea-ef4e4e029089.png)
 
 >**_ADMIN_DASHBOAD_**
+>![image](https://user-images.githubusercontent.com/78221502/175473072-05f933dd-0db2-4715-904b-2374f4454e70.png)
+
 
 >**_STUDENT_DASHBOAD_**
 ![image](https://user-images.githubusercontent.com/78221502/175472583-09356ccc-159b-497c-b877-1387a996a991.png)
@@ -64,7 +66,7 @@ py manage.py makemigrations
 py manage.py migrate
 py manage.py runserver
 ```
-- Now enter following URL in Your Browser Installed On Your Pc
+- Now enter following URL in Your Browser Installed On Your Pc 
 ```
 http://127.0.0.1:8000/
 ```
