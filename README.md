@@ -4,6 +4,22 @@
 >**_HOMEPAGE_**
 ![image](https://user-images.githubusercontent.com/78221502/175472050-6f065a5c-295d-4f17-a22a-d1ec05334f10.png)
 
+>**_ADMIN_PAGE_**
+![image](https://user-images.githubusercontent.com/78221502/175472220-7acc9d44-96e1-4fd1-95ea-ef4e4e029089.png)
+
+>**_ADMIN_DASHBOAD_**
+
+>**_STUDENT_DASHBOAD_**
+![image](https://user-images.githubusercontent.com/78221502/175472583-09356ccc-159b-497c-b877-1387a996a991.png)
+
+>**_TEACHER_DASHBOARD_**
+![image](https://user-images.githubusercontent.com/78221502/175472798-331f0f09-9556-42b0-bead-4d72a2935e16.png)
+
+>**_ABOUT_US_**
+![image](https://user-images.githubusercontent.com/78221502/175472870-cf280c6c-3b42-4f0f-a431-d7ea6279e6af.png)
+
+
+
 ---
 ## Functions
 ### Admin
